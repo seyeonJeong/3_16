@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a3_30">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.3_30">
+        <activity
+            android:name=".Week4_misson"
+            android:exported="false" />
+        <activity
+            android:name=".Select4_4"
+            android:exported="false" />
+        <activity
+            android:name=".Select4_2"
+            android:exported="false" />
+        <activity
+            android:name=".calc4_3"
+            android:exported="false" />
+        <activity
+            android:name=".clac4_1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
