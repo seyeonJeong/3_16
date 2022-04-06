@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/drawable/button_border.xml" value="0.314" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/drawable/button_rounded_border.xml" value="0.314" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/drawable/ic_launcher_background.xml" value="0.314" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_misson1.xml" value="0.264" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_misson2.xml" value="0.264" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_misson3.xml" value="0.1" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_misson4.xml" value="0.5" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_project51.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_project52.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_project53.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/wjdtp/AndroidStudioProjects/04_06/app/src/main/res/layout/activity_project55.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
